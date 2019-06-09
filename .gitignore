@@ -1,0 +1,21 @@
+
+# Generated folders should be ignored by your version control system. Here is the typical .gitignore file for a Play application
+
+logs
+project/project
+project/target
+target
+tmp
+dist
+.cache
+
+# additional
+
+.idea
+
+db
+lib
+modules
+test-result
+server.pid
+*.eml
